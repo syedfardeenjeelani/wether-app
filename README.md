@@ -2,7 +2,7 @@
 This project is a weather dashboard that provides current weather information and forecasts for different cities. The application allows users to search for cities and displays the current weather along with a 7-day forecast. It is built using React for the front-end, Material-UI for styling, and a weather API OpenWeatherMap for data.
 
 ## Features
-- Fetching and display real-time weather data.
+- Fetching and displaying real-time weather data.
 - Implemented data visualization for temperature trends.
 - Ensured the application is responsive and mobile-friendly.
 
@@ -12,9 +12,9 @@ This project is a weather dashboard that provides current weather information an
 - Initialize a new React project using Create React App.
 - Set up Material-UI for styling the application.
 
-### 2. User Authentication (Optional):
-- Implement user authentication allowing users to sign up, log in, and log out.
-- Store user preferences, such as favorite cities, in the user profile.
+### 2. User Authentication :
+- Implemented user authentication allowing users to sign up, log in, and log out.
+
 
 ### 3. Search Functionality:
 - Implemented a search bar allowing users to search for different cities.
