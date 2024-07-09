@@ -20,7 +20,7 @@ import {
 } from '@mui/material';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 
-const API_KEY = '5fd2b2caa6e558054ced9a6d41012c4e'; // Replace with your actual API key
+const API_KEY = 'xyz'; // Replace with your actual API key
 
 function WeatherDashboard() {
   const [city, setCity] = useState('');
